@@ -1,7 +1,32 @@
 ## Hi there 👋 
 
-- 🔭 I’m currently on a new path in Data Analytics.
-- 🌱 I’m currently learning Python, but my true passion is SQL. 
+### I am Giedre
+
+I recently completed a 12-month Data Analytics program at Turing College and am excited to take on new challenges. During this time, I worked on various projects and learned the following tools and languages:
+
+- **Google Sheets**
+- **SQL** (BigQuery, MySQL)
+- **Power BI** (familiar with Tableau too)
+- **Python**
+
+Looking forward to applying my skills and continuing to grow!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **GiedreKar/GiedreKar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
