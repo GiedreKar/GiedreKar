@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
 
+- 🔭 I’m currently on a new path in Data Analytics.
+- 🌱 I’m currently learning Python, but my true passion is SQL. 
 <!--
 **GiedreKar/GiedreKar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
